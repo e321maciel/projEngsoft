@@ -1,1 +1,2 @@
-Este é o primeiro arquivo do projeto de engenharia de software, e o meu nome é Elias Maciel.
+Este Ã© o primeiro arquivo do projeto de engenharia de software, e o meu nome Ã© Elias Maciel.
+O nome dos outros componentes Ã© Bruno e Marinho.
